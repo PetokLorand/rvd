@@ -1,0 +1,9 @@
+Name,Sum/day,Total Concediu rama,Required Days,Adjusted Days,Adjustment Difference in Days
+Any Name,100.74,12,4,3,1
+Other Name,180.6,9,3,3,0
+Same Name,100.74,19,7,6,1
+Different Name,180.6,28,9,9,0
+Crazy Name,140.73,25,8,8,0
+Stupid Name,140.73,14,5,4,1
+Lame Name,140.73,12,4,3,1
+Real Name,180.6,35,12,11,1
